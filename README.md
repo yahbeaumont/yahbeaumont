@@ -1,11 +1,13 @@
 # Hay Beaumont
-Software architect and engineer. I build AI products end to end: architecture, full-stack implementation, billing, infrastructure and the operational detail that decides whether a product survives contact with users.
+Software Architect & Engineer. I design and build AI-powered products from the ground up, bringing together system architecture, full-stack engineering, billing, infrastructure, and the operational foundations that turn ambitious ideas into reliable products used in the real world.
 
 **[Português](PORTUGUES.md)**
 
 ---
 
-Most of what I ship is private. What I can show is the engineering: how a system is put together, which decisions carried weight, and where the limits are. The repositories below are case studies of real products, written for engineers, not sales pages. They are not open source, and they do not contain product code or client data.
+Most of the products I build are private by design. What I share here is the engineering behind them: how systems are architected, the technical decisions that shape them, the trade-offs involved, and the challenges of taking products from concept to production.
+
+The repositories below offer a closer look at real-world projects through technical case studies, created for engineers who value substance over presentation. They are not open source and contain neither proprietary product code nor client data.
 
 ## Selected work
 
@@ -19,18 +21,26 @@ Most of what I ship is private. What I can show is the engineering: how a system
 
 ## How I work
 
-I start from the constraint, not the framework. A regulated product, a small team and a deadline decide more about a system than any preference for a library.
+I start with constraints, not frameworks. Regulatory requirements, team size, business priorities, and delivery timelines shape a system far more than personal preferences for a particular library or technology.
 
-Money and identity get a boundary. The browser is never trusted to decide something that costs money, exposes another user's data or changes an entitlement. Where the database can enforce a rule, it does.
+I draw clear boundaries around money and identity. The browser is never trusted to authorize financial operations, expose another user's data, or change access privileges. Whenever a rule can be enforced at the database level, it should be.
 
-I write the decision down. A record of why a system looks the way it does is cheaper than reconstructing it later, especially when the person reconstructing it is me, two years on.
+I document the reasoning behind decisions. Understanding why a system was designed a certain way is far less expensive than reconstructing that reasoning later, especially when the person doing it is me, two years down the road.
 
-I prefer boring infrastructure and short feedback loops. Fewer moving parts, visible state, and a rollback that works.
+I favor boring infrastructure and short feedback loops. Fewer moving parts, observable system behavior, explicit state, and rollback mechanisms that actually work. Reliability comes from deliberate engineering, not unnecessary complexity.
 
-## Stack
+## Technology Stack
 
-TypeScript, Python, Node.js, NestJS, Next.js, React. PostgreSQL, Redis, Firebase, Cloud Run, Firebase Hosting. Stripe, Pix. Local inference with open-weight models, on hardware I can actually test.
+Languages & Runtime: TypeScript, Python, Node.js.
+
+Frameworks: NestJS, Next.js, React.
+
+Data & Infrastructure: PostgreSQL, Redis, Firebase, Google Cloud Run, Firebase Hosting.
+
+Payments & Integrations: Stripe, Pix, payment infrastructure and third-party service integrations.
+
+Artificial Intelligence: LLM integration, open-weight models, local inference, and AI systems running on hardware I can benchmark and validate firsthand.
 
 ---
 
-Case studies are published in **English** and **Brazilian Portuguese**. Each repository states what it does not contain.
+Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded.
