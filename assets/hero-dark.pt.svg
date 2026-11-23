@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Hay Beaumont, Arquiteto de Software e Engenheiro">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+    <radialGradient id="r" cx=".15" cy=".05" r=".9"><stop offset="0" stop-color="#4fd1c5" stop-opacity=".16"/><stop offset="1" stop-color="#4fd1c5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4fd1c5"/><stop offset="1" stop-color="#4fd1c5" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="#0a0b0e"/>
+  <rect width="1280" height="320" fill="url(#g)"/>
+  <rect width="1280" height="320" fill="url(#r)"/>
+  <g stroke="#ffffff" stroke-opacity=".2" fill="none"><path d="M24 48V24h24M1232 24h24v24M24 272v24h24M1256 272v24h-24"/></g>
+  <text x="64" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="62" font-weight="700" fill="#f4f6f8" letter-spacing="-1.2">Hay Beaumont</text>
+  <text x="66" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#8b949e" letter-spacing="1.6">ARQUITETO DE SOFTWARE &amp; ENGENHEIRO</text>
+  <rect x="66" y="224" width="170" height="2" fill="url(#ln)"/>
+  <text x="66" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#5b636d">sistemas · billing · infraestrutura · ia local</text>
+  <rect x="433" y="254" width="8" height="15" fill="#4fd1c5"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
