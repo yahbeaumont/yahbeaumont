@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Hay Beaumont, Software Architect and Engineer">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path class="grid" d="M32 0H0V32" fill="none"/></pattern>
+    <radialGradient id="r" cx=".15" cy=".05" r=".9"><stop class="g0" offset="0"/><stop class="g1" offset="1"/></radialGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop class="l0" offset="0"/><stop class="l1" offset="1"/></linearGradient>
+  </defs>
+  <style>
+    .bg { fill:#0a0b0e; }
+    .grid { stroke:#ffffff; stroke-opacity:.045; }
+    .name { fill:#f4f6f8; }
+    .role { fill:#8b949e; }
+    .meta { fill:#5b636d; }
+    .cursor { fill:#4fd1c5; }
+    .corner { stroke:#ffffff; stroke-opacity:.2; }
+    .g0 { stop-color:#4fd1c5; stop-opacity:.16; }
+    .g1 { stop-color:#4fd1c5; stop-opacity:0; }
+    .l0 { stop-color:#4fd1c5; }
+    .l1 { stop-color:#4fd1c5; stop-opacity:0; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill:#fbfbfa; }
+      .grid { stroke:#000000; stroke-opacity:.05; }
+      .name { fill:#101215; }
+      .role { fill:#5c6167; }
+      .meta { fill:#8a8f95; }
+      .cursor { fill:#0f766e; }
+      .corner { stroke:#000000; stroke-opacity:.16; }
+      .g0 { stop-color:#0f766e; stop-opacity:.14; }
+      .g1 { stop-color:#0f766e; stop-opacity:0; }
+      .l0 { stop-color:#0f766e; }
+      .l1 { stop-color:#0f766e; stop-opacity:0; }
+    }
+  </style>
+  <rect class="bg" width="1280" height="320"/>
+  <rect width="1280" height="320" fill="url(#g)"/>
+  <rect width="1280" height="320" fill="url(#r)"/>
+  <g class="corner" fill="none"><path d="M24 48V24h24M1232 24h24v24M24 272v24h24M1256 272v24h-24"/></g>
+  <text class="name" x="64" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="62" font-weight="700" letter-spacing="-1.2">Hay Beaumont</text>
+  <text class="role" x="66" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" letter-spacing="1.6">SOFTWARE ARCHITECT &amp; ENGINEER</text>
+  <rect x="66" y="224" width="170" height="2" fill="url(#ln)"/>
+  <text class="meta" x="66" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">systems · billing · infrastructure · local ai</text>
+  <rect class="cursor" x="425" y="254" width="8" height="15"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>

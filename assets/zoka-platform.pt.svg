@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 112" width="1280" height="112" role="img" aria-label="zoka-platform, Plataforma de estudos com IA para estudantes brasileiros: comunidades, tutor e planos pagos, em produção">
+  <style>
+    .panel { fill:#0f1114; stroke:#22272e; }
+    .name { fill:#f4f6f8; }
+    .desc { fill:#8b949e; }
+    .stack { fill:#4fd1c5; }
+    .num { fill:#ffffff; }
+    .accent { fill:#4fd1c5; }
+    @media (prefers-color-scheme: light) {
+      .panel { fill:#ffffff; stroke:#dcdfdb; }
+      .name { fill:#101215; }
+      .desc { fill:#5c6167; }
+      .stack { fill:#0f766e; }
+      .num { fill:#101215; }
+      .accent { fill:#0f766e; }
+    }
+  </style>
+  <rect class="panel" x=".5" y=".5" width="1279" height="111" rx="10"/>
+  <rect class="accent" x=".5" y=".5" width="3" height="111" rx="1.5"/>
+  <text class="name" x="34" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700">zoka-platform</text>
+  <text class="desc" x="34" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">Plataforma de estudos com IA para estudantes brasileiros: comunidades, tutor e planos pagos, em produção</text>
+  <text class="stack" x="34" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" opacity=".8" letter-spacing=".6">NEXT.JS · FIREBASE · STRIPE · CLOUD RUN</text>
+  <text class="num" x="1224" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="44" font-weight="700" opacity=".06">01</text>
+</svg>
