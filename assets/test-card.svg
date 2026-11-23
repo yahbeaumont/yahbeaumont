@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 112" width="1280" height="112" role="img" aria-label="theme test">
+  <style>
+    .bg { fill:#0f1114; } .bd { stroke:#22272e; } .tx { fill:#f4f6f8; } .mu { fill:#8b949e; } .ac { fill:#4fd1c5; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill:#ffffff; } .bd { stroke:#dcdfdb; } .tx { fill:#101215; } .mu { fill:#5c6167; } .ac { fill:#0f766e; }
+    }
+  </style>
+  <rect class="bg bd" x=".5" y=".5" width="1279" height="111" rx="10"/>
+  <rect class="ac" x=".5" y=".5" width="3" height="111" rx="1.5"/>
+  <text class="tx" x="34" y="46" font-family="ui-monospace,monospace" font-size="19" font-weight="700">theme test</text>
+  <text class="mu" x="34" y="74" font-family="ui-monospace,monospace" font-size="13">this card should follow the reader's theme</text>
+  <text class="ac" x="34" y="96" font-family="ui-monospace,monospace" font-size="11" opacity=".75">DARK OR LIGHT</text>
+</svg>

@@ -32,6 +32,7 @@ Most of the products I build are private by design. What I share here is the eng
   <img src="assets/orbital-os-platform-light.svg" alt="orbital-os-platform, hardware-agnostic local AI platform: architecture, model orchestration, local inference. Architecture, ADRs, research." width="100%">
 </picture></a>
 
+<a href="https://github.com/yahbeaumont/jer-crm"><img src="assets/test-card.svg" alt="theme test" width="100%"></a>
 <a href="https://github.com/yahbeaumont/jer-crm"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/jer-crm-dark.svg">
   <img src="assets/jer-crm-light.svg" alt="jer-crm, sales prospecting CRM with access control enforced by PostgreSQL row-level security. Next.js, PostgreSQL, row-level security." width="100%">
