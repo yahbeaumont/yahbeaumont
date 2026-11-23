@@ -33,7 +33,8 @@ languages   typescript · python · node.js
 frameworks  nestjs · next.js · react
 data        postgresql · redis · firebase · cloud run
 payments    stripe · pix
-ai          llm integration · open-weight models · local inference on tested hardware
+ai          llm integration · open-weight models
+            local inference on tested hardware
 ```
 
 <img src="assets/sec-04.svg" alt="Notes" width="100%">

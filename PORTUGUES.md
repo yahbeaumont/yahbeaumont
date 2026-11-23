@@ -35,7 +35,8 @@ linguagens   typescript · python · node.js
 frameworks   nestjs · next.js · react
 dados        postgresql · redis · firebase · cloud run
 pagamentos   stripe · pix
-ia           integração de llm · modelos de peso aberto · inferência local em hardware real
+ia           integração de llm · modelos de peso aberto
+             inferência local em hardware real
 ```
 
 <img src="assets/sec-04.pt.svg" alt="Notas" width="100%">
