@@ -16,6 +16,8 @@ Most of the products I build are private by design. What I share here is the eng
 
 <a href="https://github.com/yahbeaumont/jer-crm"><img src="assets/jer-crm.svg" alt="jer-crm, sales prospecting CRM with access control enforced by PostgreSQL row-level security. Next.js, PostgreSQL, row-level security." width="100%"></a>
 
+<a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.svg" alt="rewind, open source tool for deterministic record and replay of autonomous agent runs, with a SHA-256 hash-chained tape format. TypeScript, Node." width="100%"></a>
+
 <img src="assets/sec-02.svg" alt="How I work" width="100%">
 
 I start with constraints, not frameworks. Regulatory requirements, team size, business priorities, and delivery timelines shape a system far more than personal preferences for a particular library or technology.
@@ -39,4 +41,4 @@ ai          llm integration · open-weight models
 
 <img src="assets/sec-04.svg" alt="Notes" width="100%">
 
-Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded.
+Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. The rewind repository is the exception: it is open source, MIT licensed, and carries the code rather than a case study.
