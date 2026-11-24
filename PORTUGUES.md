@@ -18,6 +18,8 @@ Os repositórios abaixo apresentam estudos de caso de projetos efetivamente dese
 
 <a href="https://github.com/yahbeaumont/jer-crm"><img src="assets/jer-crm.pt.svg" alt="jer-crm, CRM de prospecção com controle de acesso imposto por row-level security no PostgreSQL. Next.js, PostgreSQL, row-level security." width="100%"></a>
 
+<a href="https://github.com/yahbeaumont/pulso-plus"><img src="assets/pulso-plus.pt.svg" alt="pulso-plus, apoio à decisão clínica em hipertensão: agente com LLM sobre ferramentas determinísticas, portão de sinais de alarme e revisão humana. Python, Streamlit, Pydantic." width="100%"></a>
+
 <a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.pt.svg" alt="rewind, ferramenta de código aberto para gravação e replay determinístico de execuções de agentes autônomos, com fitas encadeadas por SHA-256. TypeScript, Node." width="100%"></a>
 
 <img src="assets/sec-02.pt.svg" alt="Como eu trabalho" width="100%">
