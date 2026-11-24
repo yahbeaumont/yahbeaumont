@@ -16,7 +16,7 @@ Most of the products I build are private by design. What I share here is the eng
 
 <a href="https://github.com/yahbeaumont/jer-crm"><img src="assets/jer-crm.svg" alt="jer-crm, sales prospecting CRM with access control enforced by PostgreSQL row-level security. Next.js, PostgreSQL, row-level security." width="100%"></a>
 
-<a href="https://github.com/yahbeaumont/pulso-plus"><img src="assets/pulso-plus.svg" alt="pulso-plus, clinical decision support for hypertension: an LLM agent over deterministic clinical tools, a preflight red-flag gate and human review. Python, Streamlit, Pydantic." width="100%"></a>
+<a href="https://github.com/yahbeaumont/pulso-plus"><img src="assets/pulso-plus.svg" alt="pulso-plus, open source clinical decision support for hypertension: an LLM agent over deterministic clinical tools, a preflight red-flag gate and human review. Python, Streamlit, Pydantic." width="100%"></a>
 
 <a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.svg" alt="rewind, open source tool for deterministic record and replay of autonomous agent runs, with a SHA-256 hash-chained tape format. TypeScript, Node." width="100%"></a>
 
