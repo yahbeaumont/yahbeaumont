@@ -20,6 +20,8 @@ Most of the products I build are private by design. What I share here is the eng
 
 <a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.svg" alt="rewind, open source tool for deterministic record and replay of autonomous agent runs, with a SHA-256 hash-chained tape format. TypeScript, Node." width="100%"></a>
 
+<a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.svg" alt="nanorouter, open source harness for fine-tuning a 0.5B SLM that routes intents and emits schema-valid JSON, with a deterministic dataset, evaluation harness and prompt baselines. Python, LoRA, Qwen." width="100%"></a>
+
 <img src="assets/sec-02.svg" alt="How I work" width="100%">
 
 I start with constraints, not frameworks. Regulatory requirements, team size, business priorities, and delivery timelines shape a system far more than personal preferences for a particular library or technology.
@@ -38,9 +40,10 @@ frameworks  nestjs · next.js · react
 data        postgresql · redis · firebase · cloud run
 payments    stripe · pix
 ai          llm integration · open-weight models
+            fine-tuning · evaluation
             local inference on tested hardware
 ```
 
 <img src="assets/sec-04.svg" alt="Notes" width="100%">
 
-Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. The rewind repository is the exception: it is open source, MIT licensed, and carries the code rather than a case study.
+Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. rewind and nanorouter are the exceptions: both are open source, MIT licensed, and carry the code rather than a case study.
