@@ -6,6 +6,7 @@ Most of the products I build are private by design. What I share here is the eng
 
 <img src="assets/sec-01.svg" alt="Selected work" width="100%">
 
+<a href="https://github.com/yahbeaumont/pix-on-ai"><img src="assets/pix-on-ai.svg" alt="pix-on-ai, open source credit decision engine over the Pix transaction flow: 28 flow features, calibrated LightGBM PD, versioned credit policy and reason codes for every decision. Python, FastAPI, Postgres." width="100%"></a>
 <a href="https://github.com/yahbeaumont/zoka-platform"><img src="assets/zoka-platform.svg" alt="zoka-platform, AI study platform for Brazilian students: communities, tutor and paid plans, in production. Next.js, Firebase, Stripe, Cloud Run." width="100%"></a>
 
 <a href="https://github.com/yahbeaumont/vai-de-qual"><img src="assets/vai-de-qual.svg" alt="vai-de-qual, football community platform: social graph, paid plans, credits and creator payouts. NestJS, PostgreSQL, Redis, Stripe." width="100%"></a>
@@ -46,4 +47,4 @@ ai          llm integration · open-weight models
 
 <img src="assets/sec-04.svg" alt="Notes" width="100%">
 
-Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. rewind and nanorouter are the exceptions: both are open source, MIT licensed, and carry the code rather than a case study.
+Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. pix-on-ai, rewind and nanorouter are the exceptions: all three are open source, MIT licensed, and carry the code rather than a case study.

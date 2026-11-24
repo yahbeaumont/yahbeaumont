@@ -4,10 +4,11 @@
 
 A maior parte dos produtos que desenvolvo e coloco em produção é privada. O que compartilho aqui é a engenharia por trás deles: como os sistemas são arquitetados, quais decisões técnicas foram determinantes, os trade-offs envolvidos e os desafios encontrados ao transformar ideias em produtos reais.
 
-Os repositórios abaixo apresentam estudos de caso de projetos efetivamente desenvolvidos, com uma abordagem técnica voltada a engenheiros e profissionais de tecnologia, não a apresentações comerciais. Não são projetos open source e não disponibilizam código-fonte proprietário nem dados de clientes.
+Os repositórios abaixo apresentam estudos de caso de projetos efetivamente desenvolvidos, com uma abordagem técnica voltada a engenheiros e profissionais de tecnologia, não a apresentações comerciais. A maioria não é open source e nenhum deles expõe código proprietário ou dados de clientes; os que são abertos estão identificados como tal.
 
 <img src="assets/sec-01.pt.svg" alt="Trabalhos selecionados" width="100%">
 
+<a href="https://github.com/yahbeaumont/pix-on-ai"><img src="assets/pix-on-ai.pt.svg" alt="pix-on-ai, motor de crédito em código aberto sobre o fluxo Pix: 28 features de fluxo, PD calibrada com LightGBM, política de crédito versionada e reason codes por decisão. Python, FastAPI, PostgreSQL." width="100%"></a>
 <a href="https://github.com/yahbeaumont/zoka-platform"><img src="assets/zoka-platform.pt.svg" alt="zoka-platform, plataforma de estudos com IA para estudantes brasileiros: comunidades, tutor e planos pagos, em produção. Next.js, Firebase, Stripe, Cloud Run." width="100%"></a>
 
 <a href="https://github.com/yahbeaumont/vai-de-qual"><img src="assets/vai-de-qual.pt.svg" alt="vai-de-qual, rede social de futebol: grafo social, planos pagos, créditos e repasse a criadores. NestJS, PostgreSQL, Redis, Stripe." width="100%"></a>
@@ -47,4 +48,4 @@ ia           integração de llm · modelos de peso aberto
 
 <img src="assets/sec-04.pt.svg" alt="Notas" width="100%">
 
-Os estudos de caso estão disponíveis em **inglês** e **português brasileiro**. Cada repositório especifica seu escopo, seus limites e quais informações e materiais foram intencionalmente excluídos da publicação. Os repositórios rewind e nanorouter são a exceção: ambos são código aberto, sob licença MIT, e trazem o código em vez de um estudo de caso.
+Os estudos de caso estão disponíveis em **inglês** e **português brasileiro**. Cada repositório especifica seu escopo, seus limites e quais informações e materiais foram intencionalmente excluídos da publicação. Os repositórios pix-on-ai, rewind e nanorouter são a exceção: os três são código aberto, sob licença MIT, e trazem o código em vez de um estudo de caso.

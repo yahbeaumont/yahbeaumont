@@ -20,5 +20,5 @@
   <text class="name" x="34" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700">rewind</text>
   <text class="desc" x="34" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">Open source: deterministic record and replay for autonomous agent runs</text>
   <text class="stack" x="34" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" opacity=".8" letter-spacing=".6">TYPESCRIPT · NODE · SHA-256 CHAIN</text>
-  <text class="num" x="1224" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="44" font-weight="700" opacity=".06">07</text>
+  <text class="num" x="1224" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="44" font-weight="700" opacity=".06">08</text>
 </svg>
