@@ -22,7 +22,7 @@ Os repositórios abaixo apresentam estudos de caso de projetos efetivamente dese
 
 <a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.pt.svg" alt="rewind, ferramenta de código aberto para gravação e replay determinístico de execuções de agentes autônomos, com fitas encadeadas por SHA-256. TypeScript, Node." width="100%"></a>
 
-<a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.pt.svg" alt="nanorouter, harness de código aberto para fine-tuning de um SLM de 0,5B que roteia intenções e emite JSON válido contra schema, com dataset determinístico, harness de avaliação e baselines. Python, LoRA, Qwen." width="100%"></a>
+<a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.pt.svg" alt="nanorouter, harness de código aberto para fine-tuning de um SLM de 0,5B que roteia intenções e emite JSON válido contra schema. Medido: 0,81 de validade contra 0,69 de um 7B. Python, LoRA, Qwen." width="100%"></a>
 
 <img src="assets/sec-02.pt.svg" alt="Como eu trabalho" width="100%">
 

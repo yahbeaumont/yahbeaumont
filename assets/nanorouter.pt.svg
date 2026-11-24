@@ -18,7 +18,7 @@
   <rect class="panel" x=".5" y=".5" width="1279" height="111" rx="10"/>
   <rect class="accent" x=".5" y=".5" width="3" height="111" rx="1.5"/>
   <text class="name" x="34" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700">nanorouter</text>
-  <text class="desc" x="34" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">Código aberto: fine-tuning de um SLM de 0,5B para emitir JSON de roteamento válido</text>
+  <text class="desc" x="34" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13">Código aberto: SLM de 0,5B que vence um 7B em JSON válido contra schema</text>
   <text class="stack" x="34" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" opacity=".8" letter-spacing=".6">PYTHON · LORA · HARNESS DE AVALIAÇÃO</text>
   <text class="num" x="1224" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="44" font-weight="700" opacity=".06">08</text>
 </svg>

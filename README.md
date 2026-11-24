@@ -20,7 +20,7 @@ Most of the products I build are private by design. What I share here is the eng
 
 <a href="https://github.com/yahbeaumont/rewind"><img src="assets/rewind.svg" alt="rewind, open source tool for deterministic record and replay of autonomous agent runs, with a SHA-256 hash-chained tape format. TypeScript, Node." width="100%"></a>
 
-<a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.svg" alt="nanorouter, open source harness for fine-tuning a 0.5B SLM that routes intents and emits schema-valid JSON, with a deterministic dataset, evaluation harness and prompt baselines. Python, LoRA, Qwen." width="100%"></a>
+<a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.svg" alt="nanorouter, open source harness for fine-tuning a 0.5B SLM that routes intents and emits schema-valid JSON. Measured: 0.81 spec validity against 0.69 for a 7B. Python, LoRA, Qwen." width="100%"></a>
 
 <img src="assets/sec-02.svg" alt="How I work" width="100%">
 
