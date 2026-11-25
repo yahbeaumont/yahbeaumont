@@ -25,6 +25,10 @@ Os repositórios abaixo apresentam estudos de caso de projetos efetivamente dese
 
 <a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.pt.svg" alt="nanorouter, harness de código aberto para fine-tuning de um SLM de 0,5B que roteia intenções e emite JSON válido contra schema. Medido: 0,81 de validade contra 0,69 de um 7B. Python, LoRA, Qwen." width="100%"></a>
 
+<a href="https://github.com/yahbeaumont/docsage"><img src="assets/docsage.pt.svg" alt="docsage, RAG de código aberto sobre a documentação do FastAPI com suíte de avaliação de 60 perguntas, abstenção calibrada e A/B pareado com bootstrap. Medido: o A/B pareado não encontra ganho de recuperação (delta de nDCG -3,6%, inconclusivo), abstenção 0,30 contra 0,00, custo por consulta 40% menor e p95 de 63 s porque o cross-encoder é serializado em CPU. Python, Qdrant, BM25, rerank." width="100%"></a>
+
+<a href="https://github.com/yahbeaumont/argus"><img src="assets/argus.pt.svg" alt="argus, agente de pesquisa de código aberto sobre MCP com orçamento por tarefa, detecção de loop, circuit breaker e verificação de citações. Medido em 40 tarefas: 75,0% de sucesso contra 62,5% sem guardas, 24% mais barato por tarefa e p95 de 194 s para 66 s, sem significância a 5% (McNemar p=0,125). Python, MCP." width="100%"></a>
+
 <img src="assets/sec-02.pt.svg" alt="Como eu trabalho" width="100%">
 
 Começo pelas restrições, não pelo framework. Requisitos regulatórios, tamanho da equipe, prioridades do negócio e prazos de entrega influenciam muito mais a arquitetura de um sistema do que preferências pessoais por uma biblioteca ou tecnologia específica.
@@ -48,4 +52,4 @@ ia           integração de llm · modelos de peso aberto
 
 <img src="assets/sec-04.pt.svg" alt="Notas" width="100%">
 
-Os estudos de caso estão disponíveis em **inglês** e **português brasileiro**. Cada repositório especifica seu escopo, seus limites e quais informações e materiais foram intencionalmente excluídos da publicação. Os repositórios pix-on-ai, rewind e nanorouter são a exceção: os três são código aberto, sob licença MIT, e trazem o código em vez de um estudo de caso.
+Os estudos de caso estão disponíveis em **inglês** e **português brasileiro**. Cada repositório especifica seu escopo, seus limites e quais informações e materiais foram intencionalmente excluídos da publicação. Os repositórios pix-on-ai, rewind, nanorouter, docsage e argus são a exceção: os cinco são código aberto, sob licença MIT, e trazem o código em vez de um estudo de caso.

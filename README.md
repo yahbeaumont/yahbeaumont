@@ -23,6 +23,10 @@ Most of the products I build are private by design. What I share here is the eng
 
 <a href="https://github.com/yahbeaumont/nanorouter"><img src="assets/nanorouter.svg" alt="nanorouter, open source harness for fine-tuning a 0.5B SLM that routes intents and emits schema-valid JSON. Measured: 0.81 spec validity against 0.69 for a 7B. Python, LoRA, Qwen." width="100%"></a>
 
+<a href="https://github.com/yahbeaumont/docsage"><img src="assets/docsage.svg" alt="docsage, open source RAG over the FastAPI documentation with a 60-question evaluation suite, calibrated abstention and a paired A/B with bootstrap. Measured: the paired A/B finds no retrieval gain (nDCG delta -3.6%, inconclusive), abstention 0.30 against 0.00, 40% lower cost per query, and p95 latency of 63 s because the cross-encoder is serialized on CPU. Python, Qdrant, BM25, rerank." width="100%"></a>
+
+<a href="https://github.com/yahbeaumont/argus"><img src="assets/argus.svg" alt="argus, open source research agent over MCP with per-task budget, loop detection, circuit breaker and citation verification. Measured on 40 tasks: 75.0% success against 62.5% without guards, 24% cheaper per task and p95 down from 194 s to 66 s, not significant at 5% (McNemar p=0.125). Python, MCP." width="100%"></a>
+
 <img src="assets/sec-02.svg" alt="How I work" width="100%">
 
 I start with constraints, not frameworks. Regulatory requirements, team size, business priorities, and delivery timelines shape a system far more than personal preferences for a particular library or technology.
@@ -47,4 +51,4 @@ ai          llm integration · open-weight models
 
 <img src="assets/sec-04.svg" alt="Notes" width="100%">
 
-Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. pix-on-ai, rewind and nanorouter are the exceptions: all three are open source, MIT licensed, and carry the code rather than a case study.
+Case studies are available in English and Brazilian Portuguese. Each repository clearly defines its scope, technical boundaries, and what has intentionally been excluded. pix-on-ai, rewind, nanorouter, docsage and argus are the exceptions: all five are open source, MIT licensed, and carry the code rather than a case study.
